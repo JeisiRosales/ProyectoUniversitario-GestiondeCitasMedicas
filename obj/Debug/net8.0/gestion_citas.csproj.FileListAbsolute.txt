@@ -1,0 +1,28 @@
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\bin\Debug\net8.0\gestion_citas.exe
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\bin\Debug\net8.0\gestion_citas.deps.json
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\bin\Debug\net8.0\gestion_citas.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\bin\Debug\net8.0\gestion_citas.dll
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\bin\Debug\net8.0\gestion_citas.pdb
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\obj\Debug\net8.0\gestion_citas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\obj\Debug\net8.0\gestion_citas.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\obj\Debug\net8.0\gestion_citas.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\obj\Debug\net8.0\gestion_citas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\obj\Debug\net8.0\gestion_citas.dll
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\obj\Debug\net8.0\refint\gestion_citas.dll
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\obj\Debug\net8.0\gestion_citas.pdb
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\obj\Debug\net8.0\gestion_citas.genruntimeconfig.cache
+C:\Users\User\Documents\Visual Studio Code\gestion_citas\obj\Debug\net8.0\ref\gestion_citas.dll
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\bin\Debug\net8.0\gestion_citas.exe
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\bin\Debug\net8.0\gestion_citas.deps.json
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\bin\Debug\net8.0\gestion_citas.runtimeconfig.json
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\bin\Debug\net8.0\gestion_citas.dll
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\bin\Debug\net8.0\gestion_citas.pdb
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\obj\Debug\net8.0\gestion_citas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\obj\Debug\net8.0\gestion_citas.AssemblyInfoInputs.cache
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\obj\Debug\net8.0\gestion_citas.AssemblyInfo.cs
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\obj\Debug\net8.0\gestion_citas.csproj.CoreCompileInputs.cache
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\obj\Debug\net8.0\gestion_citas.dll
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\obj\Debug\net8.0\refint\gestion_citas.dll
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\obj\Debug\net8.0\gestion_citas.pdb
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\obj\Debug\net8.0\gestion_citas.genruntimeconfig.cache
+C:\Users\Jeisi Rosales\Downloads\Gestión de citas medicas\gestion_citas\obj\Debug\net8.0\ref\gestion_citas.dll
