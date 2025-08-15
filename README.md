@@ -3,7 +3,7 @@
 
 Este proyecto es una aplicación de consola en C# para la gestión de citas y médicos, utilizando estructuras de datos simples como listas enlazadas para un manejo eficiente de la información. El sistema permite a los usuarios interactuar con los datos a través de un menú de opciones, facilitando la administración de un consultorio médico.
 
-#### Características Principales
+### Características Principales
 
 **Gestión de Citas:**
 * **Agendar Citas:** Permite registrar una nueva cita, asignándola a un médico disponible. El sistema valida si el médico existe y si no ha alcanzado el límite diario de 10 citas. Además, calcula automáticamente la próxima hora disponible, con citas que comienzan a las 10:00 AM y duran 45 minutos.
