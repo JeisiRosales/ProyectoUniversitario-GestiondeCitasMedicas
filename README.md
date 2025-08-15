@@ -1,5 +1,5 @@
 # PROYECTO UNIVERSITARIO
-### GestiondeCitasMedicas - Julio 2024
+### Gestion de Citas Médicas - Julio 2024
 
 Este proyecto es una aplicación de consola en C# para la gestión de citas y médicos, utilizando estructuras de datos simples como listas enlazadas para un manejo eficiente de la información. El sistema permite a los usuarios interactuar con los datos a través de un menú de opciones, facilitando la administración de un consultorio médico.
 
