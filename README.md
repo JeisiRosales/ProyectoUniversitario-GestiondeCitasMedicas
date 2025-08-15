@@ -1,5 +1,5 @@
 # PROYECTO UNIVERSITARIO
-### GestiondeCitasMedicas
+### GestiondeCitasMedicas - Julio 2024
 
 Este proyecto es una aplicación de consola en C# para la gestión de citas y médicos, utilizando estructuras de datos simples como listas enlazadas para un manejo eficiente de la información. El sistema permite a los usuarios interactuar con los datos a través de un menú de opciones, facilitando la administración de un consultorio médico.
 
@@ -30,3 +30,5 @@ El programa implementa listas enlazadas (usando `NodoCita` y `NodoMedico`) para 
 * `ListaCitas`: Clase que gestiona la lista enlazada de citas, conteniendo métodos para agregar, buscar, cancelar, reprogramar y mostrar citas.
 * `ListaMedicos`: Clase que administra la lista enlazada de médicos, con métodos para agregar, modificar, eliminar, mostrar y calcular ganancias.
 * `Program`: La clase principal que contiene el bucle del menú y la lógica de la aplicación.
+
+
